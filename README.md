@@ -109,13 +109,13 @@ mingw32-make tic_tac_toe
 ## 📸 Screenshots
 
 ### 🚗 GTA-Style Sandbox
-![Driving and NPC collision](assets/screenshots/gta_drive.png)
+![Driving and NPC collision](Screenshots/gta_drive.png)
 
 ### 🧠 Snake Ladder
-![Snake Ladder board](assets/screenshots/snake_ladder_board.png)
+![Snake Ladder board](Screenshots/snake_ladder_board.png)
 
 ### ❌⭕ Tic-Tac-Toe
-![Game screen](assets/screenshots/tic_tac_toe_start.png)
+![Game screen](Screenshots/tic_tac_toe_start.png)
 
 
 ---

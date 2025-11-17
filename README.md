@@ -106,9 +106,16 @@ mingw32-make snake_ladder
 ```bash
 mingw32-make tic_tac_toe
 ```
-# 📸 Screenshots
+## 📸 Screenshots
 
-Add your screenshots here:
+### 🚗 GTA-Style Sandbox
+![Driving and NPC collision](assets/screenshots/gta_drive.png)
+
+### 🧠 Snake Ladder
+![Snake Ladder board](assets/screenshots/snake_ladder_board.png)
+
+### ❌⭕ Tic-Tac-Toe
+![Game screen](assets/screenshots/tic_tac_toe_start.png)
 
 
 ---
